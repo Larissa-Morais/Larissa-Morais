@@ -3,12 +3,12 @@
 
 ## 🚀 Conecte-se comigo! <br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-purple?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/morais-larissa)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailtolarissa.s.m.batista@gmail.com)  [![Behance Badge](https://img.shields.io/badge/-Behance-purple?style=for-the-badge&logo=behance&logoColor=white) ](https://www.behance.net/larissa-morais)
-
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-purple?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/morais-larissa)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailtolarissa.s.m.batista@gmail.com)  
 
 ## 😊 Sobre mim
-Sou formada em Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital. <br>
-Tenho interesse por desenvolvimento front-end e UX/UI Design, buscando sempre criar interfaces funcionais, intuitivas e com boa experiência para o usuário.
+Sou formada em Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital. 
+Atuo como Analista de Sistemas, com foco em desenvolvimento e integração de soluções.
+Tenho grande interesse em Inteligência Artificial e Visão Computacional, explorando aplicações práticas dessas áreas no dia a dia profissional e em projetos pessoais.
 
 <br>
 <div>
