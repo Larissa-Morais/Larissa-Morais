@@ -8,7 +8,6 @@
 ## 😊 Sobre mim
 Sou formada em Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital. 
 Atuo como Analista de Sistemas Júnior, com foco em desenvolvimento e integração de soluções.
-Tenho grande interesse em Inteligência Artificial e Visão Computacional, explorando aplicações práticas dessas áreas no dia a dia profissional e em projetos pessoais.
 
 <br>
 <div>
